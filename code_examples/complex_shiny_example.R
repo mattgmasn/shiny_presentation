@@ -1,4 +1,6 @@
 # if not installed run install.packages(c("tidyverse", "shiny", "gapminder", "plotly"))
+
+# Load packages
 library(tidyverse)
 library(shiny)
 library(gapminder)
